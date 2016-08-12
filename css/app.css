@@ -1,0 +1,162 @@
+/*App.css*/
+
+
+.input {
+	width:100%;
+	height:30px;
+}
+
+.input2 {
+	width:100%;
+	height:140px;
+}
+
+.roofmenu h1 {
+	margin-left:20px;
+}
+
+.logo {
+	color:black;
+	font-weight: bold;
+}
+
+.row label, #submit_button, .row2 label {
+	font-size: 20px;
+	letter-spacing: 1px;
+	text-align: center;
+}
+
+#submit_button {
+	margin-top: 20px;
+}
+
+.roofmenu {
+	width:100%;
+	height:1300px;
+	font-family: sans-serif;
+	letter-spacing: 1px;
+	text-align: left;
+	margin-top:20px;
+}
+
+.itemprice, .itemname {
+	font-size: 15px;
+	margin-left:20px;
+}
+
+.itemname  {
+	font-size: 18px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.itemdescription {
+	font-size: 18px;
+	font-style: italic;
+	margin-left:20px;
+}
+
+.nopadding {
+	padding:0!important;
+	margin:0!important;
+}
+
+#locationmap {
+	width:100%;
+	height:500px;
+}
+
+.footer p {
+	text-align: center;
+	color:white;
+	letter-spacing: 5px;
+	margin-top:15px;
+}
+
+.textbox {
+	width:100%;
+	height:auto;
+	padding:20px;
+	text-align: center;
+}
+
+
+.nav .navbar-nav {
+	float: right;
+}
+
+.informationdetailed {
+	text-align: center;
+	padding:0px;
+	width:100%;
+	height:300px;
+	letter-spacing: 1px;
+}
+
+.navbar-right li a {
+	letter-spacing: 1px;
+}
+
+.navbar-brand {
+	letter-spacing: 2px;
+	font-size: 20px;
+}
+
+.footer {
+	width:100%;
+	height:50px;
+	background-color:gray;
+	float:left;
+}
+
+.nombre, .apellido, .carta , .numero, .mensaje {
+	text-align: center;
+}
+
+.opacity {
+	opacity: .1;
+}
+
+.idname {
+	color:blue;
+}
+
+.about {
+	text-align: center;
+	padding:10px;
+}
+
+.addcart {
+	background-color: black;
+	color:white;
+	margin-left:35%;
+	letter-spacing: 1px;
+}
+
+.cbox {
+	margin-right:5px;
+}
+
+.contactform {
+	padding:30px;
+}
+
+.top {
+	letter-spacing: 2px;
+	text-align: center;
+	color:red;
+}
+
+.meni {
+	width:100%;
+	height:800px;
+	background-color: black;
+	float:left;
+}
+
+
+.yelp {
+	padding:30px;
+	height:600px;
+}
+
